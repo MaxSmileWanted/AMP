@@ -897,6 +897,12 @@ export const adConfig = {
     renderStartImplemented: true,
   },
 
+  'smilewanted': {
+    prefetch: 'http://localhost/script_amp/script.js',
+    preconnect: 'https://static.smilewanted.com',
+    renderStartImplemented: true,
+  },
+    
   'sogouad': {
     prefetch: 'https://theta.sogoucdn.com/wap/js/aw.js',
     renderStartImplemented: true,
