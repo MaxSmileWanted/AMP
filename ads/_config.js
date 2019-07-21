@@ -898,7 +898,7 @@ export const adConfig = {
   },
 
   'smilewanted': {
-    prefetch: 'http://localhost/script_amp/script.js',
+    prefetch: 'https://prebid.smilewanted.com/amp/amp.js',
     preconnect: 'https://static.smilewanted.com',
     renderStartImplemented: true,
   },
