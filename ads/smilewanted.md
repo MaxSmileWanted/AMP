@@ -21,7 +21,7 @@ limitations under the License.
 ```html
 <amp-ad width="300" height="250"
     type="smilewanted"
-    data-zone="100">
+    data-zone="1">
 </amp-ad>
 ```
 
